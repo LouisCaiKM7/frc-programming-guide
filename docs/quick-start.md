@@ -1,7 +1,7 @@
 # For a beginner frc programmer, get everything set up on your laptop or computer is really essential for a great step forward.
 ## For vscode users:
 ### 1.Set up your vscode wpi environment.
-  Go to [WPIofficialdDOCS](https://docs.wpilib.org/en/stable](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/index.html)
+  Go to [WPIofficialDocs](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/index.html)
   Follow the steps to set your environment up.
   Requirements:
   1. Download frc game tools from [frcGameTools](https://www.ni.com/en/support/downloads/drivers/download.frc-game-tools.html#553883)
